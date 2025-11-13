@@ -50,26 +50,26 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 ## 🧾 BASIC NETWORKING COMMANDS
 
 ## IP Configuration
-## IP Configuration Details:
-(i)	ipconfig Command(windows OS) (or) ifconfig command(Linux OS) Syntax:
-C:\> ipconfig
-(ii)	ipconfig/all Command:
-Syntax:
-C:\> ipconfig /all Testing Connectivity:
-(i)	Self Ping Command:
-Syntax:
-c:\> ping <ipaddress> Example:
-C:\> ping 172.17.80.201
-C:\> ping 127.0.0.1 (ii) Ping to Destination Syntax:
-c:\> ping <destination-ipaddress> Example:
-C:\ping 172.17.80.1
-To Display IP to Physical address Translation Table and trace the route
-i) Arp Command Syntax:
+## IP Configuration Details: 
+## (i)	ipconfig Command(windows OS) (or) ifconfig command(Linux OS) Syntax: C:\> ipconfig 
+## (ii)	ipconfig/all Command:
+## Syntax:
+C:\> ipconfig /all 
+## Testing Connectivity: 
+## (i)	Self Ping Command:
+## Syntax:
+## c:\> ping <ipaddress> Example:
+## C:\> ping 172.17.80.201
+## C:\> ping 127.0.0.1 (ii) Ping to Destination Syntax:
+## c:\> ping <destination-ipaddress> Example:
+## C:\ping 172.17.80.1
+## To Display IP to Physical address Translation Table and trace the route
+## i) Arp Command Syntax:
  
-C:\arp –a
-(ii)	To trace the route Syntax:
-C:\tracert <ipaddress (or) specific address> Example: C:\tracert 172.17.80.1
-C:\tracert www.saveetha.ac.in
+## C:\arp –a
+## (ii)	To trace the route Syntax:
+## C:\tracert <ipaddress (or) specific address> Example: C:\tracert 172.17.80.1
+## C:\tracert www.saveetha.ac.in
 
 ## OUTPUT
 ---
