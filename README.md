@@ -9,15 +9,8 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 - Cisco Packet Tracer 5.0 Software
 
 ## 📍 IP ASSIGNMENT
+<img width="657" height="366" alt="Screenshot 2025-11-28 082401" src="https://github.com/user-attachments/assets/2bea79a5-b076-42ad-976f-c657b99d5356" />
 
-| NAME | IP ADDRESS     | SUBNET MASK     | NETWORK     | CLASS   |
-|------|----------------|-----------------|-------------|---------|
-| PC0  | 192.168.1.10   | 255.255.255.0   | 192.168.1.1 | Class C |
-| PC1  | 192.168.1.30   | 255.255.255.0   | 192.168.1.1 | Class C |
-| PC2  | 192.168.1.20   | 255.255.255.0   | 192.168.1.1 | Class C |
-| PC3  | 192.168.2.20   | 255.255.255.0   | 192.168.1.2 | Class C |
-| PC4  | 192.168.2.30   | 255.255.255.0   | 192.168.1.2 | Class C |
-| PC5  | 192.168.2.10   | 255.255.255.0   | 192.168.1.2 | Class C |
 
 ## ⚙️ PROCEDURE
 
@@ -32,19 +25,13 @@ To simulate a network with topology using Cisco Packet Tracer and verify connect
 9. Use “Add Simple PDU” from the toolbar to test connectivity between source and destination PCs.
 
 ## 📊 IP CONNECTIVITY TABLE
+<img width="755" height="358" alt="Screenshot 2025-11-28 082445" src="https://github.com/user-attachments/assets/c7ae6647-be76-4860-968a-f378a6a00f30" />
 
-| SENDER/RECEIVER | PC0 | PC1 | PC2 | PC3 | PC4 | PC5 |
-|------------------|-----|-----|-----|-----|-----|-----|
-| PC0              |     |     |     |     |     |     |
-| PC1              |     |     |     |     |     |     |
-| PC2              |     |     |     |     |     |     |
-| PC3              |     |     |     |     |     |     |
-| PC4              |     |     |     |     |     |     |
-| PC5              |     |     |     |     |     |     |
 
 ## 🗺️ NETWORK DIAGRAM
 ---
-<img width="1024" height="326" alt="image" src="https://github.com/user-attachments/assets/b1678fb3-30c2-4351-9b61-ee7b524be458" />
+<img width="1024" height="326" alt="image" src="https://github.com/user-attachments/assets/101f648b-4a63-4b6c-9ad7-a0deab535f0b" />
+
 
 
 ## 🧾 BASIC NETWORKING COMMANDS
@@ -73,7 +60,10 @@ C:\> ipconfig /all
 
 ## OUTPUT
 ---
-<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/39cc071d-feae-4f5e-b8a6-f2b7a155daf0" />
+<img width="1088" height="796" alt="image" src="https://github.com/user-attachments/assets/ba7621e4-1431-4d59-9bff-34bd1d371e10" />
+<img width="1920" height="1021" alt="image" src="https://github.com/user-attachments/assets/f245b354-387e-4de0-84b0-7b7a2bdabf50" />
+
+
 
 ## RESULT
 Thus the computers in same network are able to communicate with each other and the communication between them were verified
